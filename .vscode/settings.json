@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "mutex": "cpp",
+        "functional": "cpp",
+        "iostream": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp"
+    }
+}
